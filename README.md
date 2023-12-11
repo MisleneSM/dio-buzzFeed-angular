@@ -20,7 +20,7 @@ Desenvolvido por:
 
 Desenvolvido um mini clone de BuzzFeed responsivo, tendo como objetivo aprimorar novos conhecimentos no Framework Angular. Desafio promovido e proposto pela [Dio](https://www.dio.me/) do programa de Bootcamp Desenvolvimento Frontend com Angular - Banco Pan, administrada pelo professor [Felipe Aguiar](https://github.com/felipeAguiarCode). 
 
-O projeto constitui em um teste de personagem, onde você consegue descobrir sua identificação como um super heroi(a) ou um super vilão(a). Para acessar o resultado do projeto e descobrir o seu perfil, basta clicar aqui no [Link]()
+O projeto constitui em um teste de personagem, onde você consegue descobrir sua identificação como um super heroi(a) ou um super vilão(a). Para acessar o resultado do projeto e descobrir o seu perfil, basta clicar aqui no [Link](https://dio-buzz-feed-angular.vercel.app/)
 
 ## 2. Objetivos de aprendizagem✅
 
