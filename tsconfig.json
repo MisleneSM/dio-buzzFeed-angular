@@ -1,9 +1,11 @@
 /* To learn more about this file see: https://angular.io/config/tsconfig. */
 {
   "compileOnSave": false,
-  "compilerOptions": {
+  "compilerOptions": { // configurações de compilação do ts
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
+    "resolveJsonModule": true, // resolve os modulos em json
+    "allowSyntheticDefaultImports": true, // faz entender os arquivos em json
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "noImplicitOverride": true,
